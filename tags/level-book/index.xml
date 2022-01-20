@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Level book on Bailey Zhao's Personal Blog</title><link>https://baileyz.org/tags/level-book/</link><description>Recent content in Level book on Bailey Zhao's Personal Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright &amp;copy;2022 &lt;br> Designed &amp;amp; Developed by [CodeLink Consulting](https://codelink.ai)</copyright><lastBuildDate>Thu, 07 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://baileyz.org/tags/level-book/index.xml" rel="self" type="application/rss+xml"/><item><title>Red Things: Level A Book</title><link>https://baileyz.org/blogs/18-red-things-level-a-book/</link><pubDate>Thu, 07 Jan 2021 18:19:25 +0600</pubDate><guid>https://baileyz.org/blogs/18-red-things-level-a-book/</guid><description/></item><item><title>The Art Class: Level AA Book</title><link>https://baileyz.org/blogs/19-the-art-class-level-aa-book/</link><pubDate>Thu, 07 Jan 2021 18:19:25 +0600</pubDate><guid>https://baileyz.org/blogs/19-the-art-class-level-aa-book/</guid><description/></item><item><title>The Farm: Level AA Book</title><link>https://baileyz.org/blogs/20-the-farm-level-aa-book/</link><pubDate>Thu, 07 Jan 2021 18:19:25 +0600</pubDate><guid>https://baileyz.org/blogs/20-the-farm-level-aa-book/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Level book on Bailey Zhao&#39;s Personal Blog</title>
+    <link>https://baileyz.org/tags/level-book/</link>
+    <description>Recent content in Level book on Bailey Zhao&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2022 &lt;br&gt; Designed &amp;amp; Developed by [CodeLink Consulting](https://codelink.ai)</copyright>
+    <lastBuildDate>Thu, 07 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://baileyz.org/tags/level-book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Things: Level A Book</title>
+      <link>https://baileyz.org/blogs/18-red-things-level-a-book/</link>
+      <pubDate>Thu, 07 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://baileyz.org/blogs/18-red-things-level-a-book/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>The Art Class: Level AA Book</title>
+      <link>https://baileyz.org/blogs/19-the-art-class-level-aa-book/</link>
+      <pubDate>Thu, 07 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://baileyz.org/blogs/19-the-art-class-level-aa-book/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>The Farm: Level AA Book</title>
+      <link>https://baileyz.org/blogs/20-the-farm-level-aa-book/</link>
+      <pubDate>Thu, 07 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://baileyz.org/blogs/20-the-farm-level-aa-book/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
